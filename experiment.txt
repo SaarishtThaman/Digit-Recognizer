@@ -1,0 +1,15 @@
+realmode - 
+Test loss: 0.03131322216946164
+Test accuracy: 0.9911999702453613
+
+realmodel2 -
+Test loss: 0.03365661867081252
+Test accuracy: 0.9909999966621399
+
+realmodel3 -
+Test loss: 0.04018111172281717
+Test accuracy: 0.9901999831199646
+
+realmodel4 -
+Test loss: 0.05107257866594009
+Test accuracy: 0.9883000254631042
